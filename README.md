@@ -20,3 +20,5 @@ I'm a passionate Software Engineer, currently gearing up to join Amazon Web Serv
 Feel free to reach out for collaborations or just to say hi!
 
 [LinkedIn Profile](https://www.linkedin.com/in/sush-mullur/)
+
+![Leetcode Stats](https://leetcard.sushm28.cool/sushm28)
