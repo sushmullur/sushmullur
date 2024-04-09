@@ -12,7 +12,7 @@ I'm a passionate Software Engineer, currently gearing up to join Amazon Web Serv
 - Always curious and diving into new technologies that catch my eye.
 
 🎵 **Beyond Coding:**
-- When not coding, you'll find me immersed in music or dabbling in entrepreneurship.
+- When not coding, you'll find me immersed in music.
 
 🌱 **Looking Forward:**
 - I'm on a constant journey of learning and growth, eager to contribute to impactful projects and collaborate with like-minded individuals.
