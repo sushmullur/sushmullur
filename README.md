@@ -1,22 +1,21 @@
-# Hi there, I'm Sush Mullur! 👋
+## Hi there, I'm Sush Mullur! 👋
+I'm a Software Engineer at Amazon Web Services, where I combine my passion for technology with a commitment to environmental sustainability. I hold a degree in Computer Science and Software Engineering from the University of Washington Bothell, and I'm focused on developing solutions that not only solve complex problems but also promote ethical practices.
 
-I'm a passionate Software Engineer, currently gearing up to join Amazon Web Services in 2024. With a fresh Computer Science and Software Engineering degree from the University of Washington Bothell, I'm all about leveraging technology to solve complex problems and make a tangible impact.
+### 🚀 Currently Focused On:
 
-🚀 **What I'm up to:**
-- Transitioning into my role at AWS, where I'll bring my internship experience full circle.
-- Continuously exploring the realms of Generative AI and Large Language Models.
-- Empowering the next generation of coders through mentorship and education.
+- Excelling in my role at AWS and integrating my passion for ethically sourced, environmentally friendly technology.
+- Advancing my knowledge in cloud and large scale development. 
+- Supporting emerging coders through mentorship, balancing this with my commitments at AWS.
 
-🛠 **Tech Stack:**
-- Proficient in Python, AWS technologies, and modern full-stack development.
-- Always curious and diving into new technologies that catch my eye.
+### 🛠 Tech Stack:
 
-🎵 **Beyond Coding:**
-- When not coding, you'll find me immersed in music.
+Skilled in Java, AWS technologies, and modern full-stack development.
+Eager to explore technologies that are innovative and ethically responsible.
 
-🌱 **Looking Forward:**
-- I'm on a constant journey of learning and growth, eager to contribute to impactful projects and collaborate with like-minded individuals.
+### 🎵 Beyond Coding:
 
-Feel free to reach out for collaborations or just to say hi!
+A music enthusiast, producer, and singer, finding rhythm both in code and melodies.
 
-[LinkedIn Profile](https://www.linkedin.com/in/sush-mullur/)
+While I'm not looking for new job opportunities, I'm always open to collaborating on projects that align with my skills and interests. Feel free to connect or just say hi!
+
+LinkedIn Profile - https://www.linkedin.com/in/sush-mullur/
